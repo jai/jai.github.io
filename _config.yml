@@ -1,3 +1,7 @@
-name: Flex
 markdown: redcarpet
 highlighter: pygments
+
+title_tag_text: jaihub
+h1_tag_text: jaihub
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]

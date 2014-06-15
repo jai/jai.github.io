@@ -1,29 +1,6 @@
 ---
-layout: post
-title: jaihub
-cover: cover_tl_gray.jpg
-date:   2014-06-14 15:40:00
-categories: posts
+layout: default
 ---
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html>
-	<body>
-		<h2>
-			My coding efforts and tinkerings
-		</h2>
-		<hr>
-		<h3>
-			<a name="hey-everyone---make-yourselves-at-home" class="anchor" href="#hey-everyone---make-yourselves-at-home" id="hey-everyone---make-yourselves-at-home"></a>Hey Everyone - Make Yourselves at Home!
-		</h3>
-		<p>
-			So here's my github page - check out some of my projects, maybe fork some, submit a PR or two :)
-		</p>
-		<h3>
-			<a name="updates" class="anchor" href="#updates" id="updates"></a>Updates
-		</h3>
-		<p>
-			Just updated my <a href="https://github.com/jai/UIButton-StatefulBackgroundColor">UIButton+StatefulBackgroundColor</a> category and pushed 0.1.4 to Cocoapods.
-		</p>
-	</body>
-</html>
+{% capture index %}{% include index.md %}{% endcapture %}
+{{ index | markdownify }}
