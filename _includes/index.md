@@ -15,6 +15,6 @@ is a collection of simple-ish safety methods implemented as categories on NSArra
 
 ## Author
 
-Jai Govindani ([Twitter](http://twitter.com/govindani)/[GitHub](http://github.com/jai)/[G+]())
+Jai Govindani ([Twitter](http://twitter.com/govindani)/[GitHub](http://github.com/jai))
 
 ![Jai Govindani](http://www.gravatar.com/avatar/02d49226e1b8a638012d45ffba5b657b?s=200)
