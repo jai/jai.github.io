@@ -1,7 +1,5 @@
 Hi - thanks for checking out my page! I'm Jai Govindani, an entrepreneur and iOS developer currently residing in Bangkok, Thailand. If I haven't been lazy, there should be a list of social media profile links somewhere on this page that you can use to get to know me better if you're so inclined.
 
-I've made this page to highlight my open source contributions and stuff I'm working on. I'd also like to add a page of libraries I use at some point - a lot of people have done a lot of great work that's saved me a lot of time and I owe it to them to highlight their contributions.
-
 ### Some of my work
 
 [Foundation Safety](https://github.com/jai/FoundationSafety)
