@@ -2,6 +2,8 @@ Hi - thanks for checking out my page! I'm Jai Govindani, an entrepreneur and iOS
 
 ### Some of my work
 
+[VideoMerge](https://github.com/jai/VideoMerge) - my learner Swift project. I'm using it to get the hang of Swift and interacting with ObjC APIs with it. If it matures into something else I'll end up changing the name but for the next few days it'll just be called VideoMerge :)
+
 [ZProgressView](https://github.com/zodio/ZProgressView) is a progress view that supports adding 'stops' or markers that can indicate a minimum progress. I created this for the video recording functionality in the [Zodio iPhone app](http://i.zodio.com) to indicate a minimum recording duration. Small and simple, does one thing and does it well - exactly what a good lib should do, in my opinion!
 
 [AFS3Client](https://github.com/jai/AFS3Client) is a simple HTTP PUT client for Amazon S3's REST API. I didn't write the lib but I've been improving upon it. These signed requests are non-trivial to create and if you're just starting out with the S3 REST API, this is definitely the way to go. I still need to improve it to add support for PUT and GET, or feel free to submit a pull request!
