@@ -4,7 +4,7 @@ Hi - thanks for checking out my page! I'm Jai Govindani, an entrepreneur and iOS
 
 ### Some of my work
 
-[BVViewList](https://github.com/Bogidon/BVViewList) - so I've taken to stalking the iOS developers of the places where I've applied for a job. Found one of them had [requested a feature](https://github.com/Bogidon/BVViewList/issues/1) so I went ahead and implemented it. Hope it impresses ;)
+[BVViewList](https://github.com/Bogidon/BVViewList) - so I've taken to stalking the iOS developers of the places where I've applied for a job. Found one of them had [requested a feature](https://github.com/Bogidon/BVViewList/issues/1) so I went ahead and [implemented it](https://github.com/Bogidon/BVViewList/pull/5). Hope it impresses ;)
 
 [VideoMerge](https://github.com/jai/VideoMerge) - my learner Swift project. I'm using it to get the hang of Swift and interacting with ObjC APIs with it. If it matures into something else I'll end up changing the name but for the next few days it'll just be called VideoMerge :)
 
