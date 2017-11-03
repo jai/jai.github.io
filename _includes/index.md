@@ -1,6 +1,14 @@
-_Last updated: 11:14AM // 24-Jun-2014_
+_Last updated: 16:09:00GMT+7 // 03-NOV-2017_
 
-Hi - thanks for checking out my page! I'm Jai Govindani, an entrepreneur and iOS developer currently residing in Bangkok, Thailand. If I haven't been lazy, there should be a list of social media profile links somewhere on this page that you can use to get to know me better if you're so inclined. If you're looking for an iOS developer or general tech extraordinaire, here's the latest copy of my [resume](http://jai.github.io/resume.pdf)
+Hey - welcome to my Github page. Hasn't been updated in a while, and maybe not for a much longer :)
+
+I'm Jai - currently CTO @RedPlanetHotels (twitter.com/redplanethotels). I like building companies and products. I also enjoy running, skydiving, reading, eating, being with people and lots of other things.
+
+There's some code here I've played with. I have some on Bitbucket too - will link to it at some point once it's worthwhile.
+
+Feel free to reach out if you're up for a drink! I can usually be found in Bangkok, California, Amsterdam, Spain or...well just reach out and I'll let you know :)
+
+== WARNING - OLD STUFF ==
 
 ### Some of my work
 
