@@ -1,8 +1,8 @@
-_Last updated: 16:09:00GMT+7 // 03-NOV-2017_
+_Last updated: 17:27:00GMT+7 // 15-JUN-2021_
 
 Hey - welcome to my Github page. Hasn't been updated in a while, and maybe not for a much longer :)
 
-I'm Jai - currently CTO @RedPlanetHotels (twitter.com/redplanethotels). I like building companies and products. I also enjoy running, skydiving, reading, eating, being with people and lots of other things.
+I'm Jai - most recently CTO @ Honest Bank (https://honestbank.com/), previously @RedPlanetHotels. I like building companies and products. I also enjoy running, skydiving, reading, eating, being with people and lots of other things.
 
 There's some code here I've played with. I have some on Bitbucket too - will link to it at some point once it's worthwhile.
 
